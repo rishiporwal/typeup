@@ -1,0 +1,48 @@
+{
+    "name": "Typeup",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.3.44",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FFFF00",
+        "#ffa500",
+        "#FF0000",
+        "#ffc0cb",
+        "#800080",
+        "#0000FF",
+        "#009bba",
+        "#00FF00",
+        "#006400",
+        "#964B00",
+        "#444444",
+        "#878787",
+        "#000000",
+        "#3B3A36"
+    ]
+}
